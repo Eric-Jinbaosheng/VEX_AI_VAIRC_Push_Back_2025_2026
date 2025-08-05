@@ -1,6 +1,6 @@
 # Magikid VEX AI Dataset
 
-A high-quality YOLOv11 dataset designed for the **VEX AI competition** 2025 - 2026 Push Back season, featuring 500 annotated images and labels representing typical objects and scenarios in the competition environment.  
+A high-quality YOLOv11 dataset designed for the VEX AI competition 2025 - 2026 Push Back season provided by Magikid, featuring 500 annotated images and labels representing typical objects and scenarios in the competition environment like red & blue blocks, center goal, long goal, loading station, and red & blue parking zones.
 The dataset is pre-split into training, validation, and test sets for direct use in deep learning workflows.
 
 ## Dataset Structure
